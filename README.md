@@ -12,4 +12,4 @@ Like your uber drivers all do the same task, but if you have a good chat to one 
 
 **Children inherit their parents genes, parents don't inherit the genes of their children.**
 
-A function will know the values of the variables set in the main (global/parent) part of your script, but the variables set in the function (child) will only be known to the child.
+A function (child) will know the values of the variables set in the main (global/parent) part of your script, but the variables set in the function (child) will only be known to the function (child).
